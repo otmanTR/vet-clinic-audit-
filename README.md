@@ -124,8 +124,9 @@ Check queries.sql for examples of queries that can be run on a newly created dat
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Transactions]**
-- [ ] **[New columns]**
+
+- [ ] **[Use Ruby to add features]**
+- [ ] **[Link to existing react application]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,4 +166,6 @@ I would like to thank Microverse for the codebase I use
 
 This project is [MIT](./LICENSE) licensed.
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
