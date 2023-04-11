@@ -129,6 +129,10 @@ Example command:
 - Twitter: [@hotumanzade](https://twitter.com/hotumanzade)
 - LinkedIn: [Burak Otman](linkedin.com/in/burak-otman-88646443)
 
+👤 **Lesli**
+- GitHub: [@LeslieAine](https://github.com/LeslieAine)
+- LinkedIn: [LeslieAine](https://linkedin.com/in/LeslieAine)
+
 👤 **Habtamu**
 
 - GitHub: [@Habtamu210](https://github.com/Habtamu210)
