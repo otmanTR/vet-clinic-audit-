@@ -41,12 +41,14 @@ PRIMARY KEY(id)
 );
 
 CREATE TABLE medical_histories_treatments (
+     id INT GENERATED ALWAYS AS IDENTITY,
     medical_history_id INT NOT NULL,
     treatment_id INT NOT NULL,
     CONSTRAINT fk_medical_histories_treatments_medical_histories
         FOREIGN KEY (medical_history_id) REFERENCES medical_histories (id),
     CONSTRAINT fk_medical_histories_treatments_treatments
-        FOREIGN KEY (treatment_id) REFERENCES treatments (id)
+        FOREIGN KEY (treatment_id) REFERENCES treatments (id),
+        PRIMARY KEY(id)
 );
 
 CREATE INDEX patient_index ON medical_histories(patient_id);
